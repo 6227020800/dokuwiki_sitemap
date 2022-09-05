@@ -1,0 +1,7 @@
+base dokuwiki_sitemap
+author 6227020800
+email 6227020800@runbox.com
+date 2022-09-05
+name Dokuwiki Sitemap Plugin
+desc Include the Dokuwiki Sitemap in the current page.
+url http://www.dokuwiki.org/devel:syntax_plugins
